@@ -1,0 +1,3 @@
+Lähdin tekijä taulusta suunnittelemaan. En oo iha varma onko toi kirjojen lainaus noissa
+taulukoissa mitenkää parhaalla tavalla mutta ainakin se toimi jotenki mitä sitä vähä testailin.
+En oikee osaa sanoo miks päädyin just tähän ratkasuun, se vaa tuntu järkevältä.
